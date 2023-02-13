@@ -1,2 +1,2 @@
-m!/bin/bash
-id -u -n
+#!/bin/bash
+ld -un
